@@ -1,6 +1,6 @@
 movie = "Inception"
 rating = 4
-popularity = 78
+popularity = 90
 
 if rating>= 4 and popularity >80:
    print("Highly recommended")
